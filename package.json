@@ -1,0 +1,15 @@
+{
+  "name": "api.pingme",
+  "version": "1.0.0",
+  "description": "API's for pingme application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+    "express":"*",
+    "nodemon":"*"
+  },
+  "author": "Suraj Potnuru",
+  "license": "ISC"
+}
